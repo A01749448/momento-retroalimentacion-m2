@@ -40,7 +40,25 @@ Para este modelo de regresión líneal se realizaron 3 configuraciones diferente
   <img src="https://github.com/A01749448/momento-retroalimentacion-m2/blob/main/Imagenes/metricas1.png" width="500px">
 </p>
 
+**Prueba 2**
 
+<p align = "center">
+  <img src="https://github.com/A01749448/momento-retroalimentacion-m2/blob/main/Imagenes/prediccion2.png" width="500px">
+</p>
+
+<p align = "center">
+  <img src="https://github.com/A01749448/momento-retroalimentacion-m2/blob/main/Imagenes/metricas2.png" width="500px">
+</p>
+
+**Prueba 3**
+
+<p align = "center">
+  <img src="https://github.com/A01749448/momento-retroalimentacion-m2/blob/main/Imagenes/prediccion3.png" width="500px">
+</p>
+
+<p align = "center">
+  <img src="https://github.com/A01749448/momento-retroalimentacion-m2/blob/main/Imagenes/metricas3.png" width="500px">
+</p>
 
 Dado que la prueba número 3 arrojó un score más alto por decimales, se decide trabajar bajo ese modelo para el cálculo de la predicción final y su comparación con los valores reales; la figura siguiente muestra tanto los valores de entrada para la predicción, los valores reales, la predicción y las métricas del modelo. 
 
