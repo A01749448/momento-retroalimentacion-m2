@@ -32,8 +32,6 @@ Para este modelo de regresión líneal se realizaron 3 configuraciones diferente
 
 Dado que la prueba número 3 arrojó un score más alto por decimales, se decide trabajar bajo ese modelo para el cálculo de la predicción final y su comparación con los valores reales; la figura siguiente muestra tanto los valores de entrada para la predicción, los valores reales, la predicción y las métricas del modelo. 
 
-
-
 ### Archivo a Revisar 
                                                                                                                              
 Para una mejor visualización del programa y sus resultados, se encuentra el archivo *momentoDeRetroalimentacionM2.ipynb* y de igual forma se encuentra el archivo para correr directamente en un compilador el archivo *momentoDeRetroalimentacionM2.py*
