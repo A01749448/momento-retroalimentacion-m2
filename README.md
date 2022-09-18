@@ -30,6 +30,8 @@ La descripción de cada uno de los atributos del dataset utilizado son los sigui
 
 Para este modelo de regresión líneal se realizaron 3 configuraciones diferentes para el modelo, esto con el propósito de encontrar con qué parámetros se obtiene un score más alto, y que por ende, se lograran mejores resultados en las predicciones, las siguientes figuras muestran las configuraciones de los modelos y sus respectivas métricas. 
 
+#### Prueba 1
+
 <p align = "center">
   <img src="https://github.com/A01749448/momento-retroalimentacion-m2/blob/main/Imagenes/prediccion1.png" width="500px">
 </p>
@@ -37,6 +39,8 @@ Para este modelo de regresión líneal se realizaron 3 configuraciones diferente
 <p align = "center">
   <img src="https://github.com/A01749448/momento-retroalimentacion-m2/blob/main/Imagenes/metricas1.png" width="500px">
 </p>
+
+
 
 Dado que la prueba número 3 arrojó un score más alto por decimales, se decide trabajar bajo ese modelo para el cálculo de la predicción final y su comparación con los valores reales; la figura siguiente muestra tanto los valores de entrada para la predicción, los valores reales, la predicción y las métricas del modelo. 
 
