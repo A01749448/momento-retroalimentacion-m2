@@ -71,6 +71,10 @@ Dado que la prueba número 3 arrojó un score más alto por decimales, se decide
 </p>
 
 <p align = "center">
+  <img src="https://github.com/A01749448/momento-retroalimentacion-m2/blob/main/Imagenes/valores.png" width="500px">
+</p>
+
+<p align = "center">
   <img src="https://github.com/A01749448/momento-retroalimentacion-m2/blob/main/Imagenes/tablaComparativa.png" width="500px">
 </p>
 
