@@ -36,4 +36,4 @@ Dado que la prueba número 3 arrojó un score más alto por decimales, se decide
 
 ### Archivo a Revisar 
                                                                                                                              
-Para una mejor visualización del programa y sus resultados, se encuentra el archivo *momentoDeRetroalimentacionM2Framework.ipynb* y de igual forma se encuentra el archivo para correr directamente en un compilador el archivo *momentoDeRetroalimentacionM2Framework.py*
+Para una mejor visualización del programa y sus resultados, se encuentra el archivo *momentoDeRetroalimentacionM2.ipynb* y de igual forma se encuentra el archivo para correr directamente en un compilador el archivo *momentoDeRetroalimentacionM2.py*
