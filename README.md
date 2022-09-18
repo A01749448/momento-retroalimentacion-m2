@@ -16,9 +16,23 @@ Implementación de una técnica de aprendizaje máquina sin el uso de un framewo
 
 Fish weight analysis and prediction, obtenido de: [dataset](https://www.kaggle.com/code/agustinpugliese/fish-weight-analysis-and-prediction/notebook)
 
+La descripción de cada uno de los atributos del dataset utilizado son los siguientes: 
+
+* *Species* Nombre de la especie del pez. 
+* *Weight* Weight of fish in gram g.
+* *Length1* Vertical Lentgh in cm. 
+* *Length2* Diagonal Lentgh in cm.
+* *Length3* Cross Lentgh in cm.
+* *Height* Height in cm.
+* *Width* Width in cm.
+
 ### Métricas de Desempeño 
 
-Para este modelo se realizaron 5 configuraciones de árboles de decisión, con el propósito de encontrar con que parámetros se obtenía un mayor número de score, y que por ende, se obtuvieran mejores predicciones. Los árboles obtenidos y sus scores fueron los siguientes. 
+Para este modelo de regresión líneal se realizaron 3 configuraciones diferentes para el modelo, esto con el propósito de encontrar con qué parámetros se obtiene un score más alto, y que por ende, se lograran mejores resultados en las predicciones, las siguientes figuras muestran las configuraciones de los modelos y sus respectivas métricas. 
+
+Dado que la prueba número 3 arrojó un score más alto por decimales, se decide trabajar bajo ese modelo para el cálculo de la predicción final y su comparación con los valores reales; la figura siguiente muestra tanto los valores de entrada para la predicción, los valores reales, la predicción y las métricas del modelo. 
+
+
 
 ### Archivo a Revisar 
                                                                                                                              
